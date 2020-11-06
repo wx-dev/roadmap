@@ -2,4 +2,4 @@
 
 - TypeScript
 - Umi
-  - umi-request
+  - [umi-request](https://github.com/umijs/umi-request)
