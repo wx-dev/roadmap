@@ -1,0 +1,1 @@
+- [基础](https://github.com/aivsok/roadmap/blob/main/mysql/%E5%9F%BA%E7%A1%80.md)
