@@ -1,5 +1,7 @@
 # Road Map
 
-- TypeScript
-- Umi
-  - [umi-request](https://github.com/umijs/umi-request)
+- java
+- linux
+- mysql
+- react
+- vue
