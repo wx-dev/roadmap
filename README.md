@@ -1,63 +1,42 @@
 # Road Map
 
-> 服务器
-
-一、Java
-
-- 
-
-二、GO
-
-- 
-
-
-
-> Web前端
-
-一、 HTML(5)
-
-二、CSS(3)
-
-三、JQuery
-
-四、React
-
-五、Vue
-
-
-
-> Linux
-
-一、命令
-
-二、Shell
-
-三、部署
-
-四、虚拟化
-
-
-
-> 数据库
-
-一、MySQL
-
-二、Oracle
-
-三、RDS
-
-四、ADS
-
-五、MongoDB
-
-六、Redis
-
-
-
-> 微信
-
-一、公众号
-
-二、小程序
-
-三、订阅号
+- 服务端
+    - Java
+        - JavaSE
+        - Spring
+            - Springboot
+            - SpringMVC
+            - SpringCloud
+            - ...
+    - Go
+        - Docker
+        - K8S
+- Web前端
+    - JavaScript
+    - TypeScript
+    - React
+        - Umi
+        - Antd
+        - Router
+        - Dva
+        - Redux
+        - SSR
+    - Vue
+    - Gulp
+    - Webpack
+- 数据库
+    - MySQL
+    - Oracle
+    - Redis
+    - MongoDB
+    - ADS
+    - RDS
+- Linux
+    - 基础命令
+    - 应用部署
+    - Shell脚本
+    - 虚拟化
+- 微信
+    - 公众号
+    - 小程序
+    - 订阅号
